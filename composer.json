@@ -1,0 +1,12 @@
+{
+    "name": "leadtech/http-commons",
+    "description": "A zero dependency set of definitions to help work with headers and status codes. ",
+    "keywords": ["http", "commons", "utils"],
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Leadtech\\HttpCommons\\": "src/Leadtech/HttpCommons"
+        }
+    }
+}
